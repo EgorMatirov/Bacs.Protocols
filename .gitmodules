@@ -1,0 +1,33 @@
+[submodule "Bacs.Protocols.Problem/protos/problem"]
+	path = Bacs.Protocols.Problem/protos/problem
+	url = https://github.com/bacsorg/problem
+[submodule "Bacs.Protocols.StatementProvider/protos/problem"]
+	path = Bacs.Protocols.StatementProvider/protos/problem
+	url = https://github.com/bacsorg/problem
+[submodule "Bacs.Protocols.StatementProvider/protos/statement_provider"]
+	path = Bacs.Protocols.StatementProvider/protos/statement_provider
+	url = https://github.com/bacsorg/statement_provider
+[submodule "Bacs.Protocols.Common/protos/common"]
+	path = Bacs.Protocols.Common/protos/common
+	url = https://github.com/bacsorg/common
+[submodule "Bacs.Protocols.ProblemSingle/protos/problem"]
+	path = Bacs.Protocols.ProblemSingle/protos/problem
+	url = https://github.com/bacsorg/problem
+[submodule "Bacs.Protocols.ProblemSingle/protos/problem_single"]
+	path = Bacs.Protocols.ProblemSingle/protos/problem_single
+	url = https://github.com/bacsorg/problem_single
+[submodule "Bacs.Protocols.ProblemSingle/protos/common"]
+	path = Bacs.Protocols.ProblemSingle/protos/common
+	url = https://github.com/bacsorg/common
+[submodule "Bacs.Protocols.Archive/protos/problem"]
+	path = Bacs.Protocols.Archive/protos/problem
+	url = https://github.com/bacsorg/problem
+[submodule "Bacs.Protocols.Archive/protos/problem_single"]
+	path = Bacs.Protocols.Archive/protos/problem_single
+	url = https://github.com/bacsorg/problem_single
+[submodule "Bacs.Protocols.Archive/protos/common"]
+	path = Bacs.Protocols.Archive/protos/common
+	url = https://github.com/bacsorg/common
+[submodule "Bacs.Protocols.Archive/protos/archive"]
+	path = Bacs.Protocols.Archive/protos/archive
+	url = https://github.com/bacsorg/archive
