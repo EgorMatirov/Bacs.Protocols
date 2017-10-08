@@ -19,8 +19,6 @@
     <PackageReference Include="Google.Protobuf" Version="3.2.0" />
     <PackageReference Include="Grpc" Version="1.2.2" />
     <PackageReference Include="Grpc.Tools" Version="1.2.2" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Bacs.Protocols.Problem\Bacs.Protocols.Problem.csproj" />
+    <PackageReference Include="Bacs.Protocols.Problem"/>
   </ItemGroup>
 </Project>
