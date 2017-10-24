@@ -31,3 +31,6 @@
 [submodule "Bacs.Protocols.Archive/protos/archive"]
 	path = Bacs.Protocols.Archive/protos/archive
 	url = https://github.com/bacsorg/archive
+[submodule "Bacs.Protocols.Broker/protos/broker"]
+	path = Bacs.Protocols.Broker/protos/broker
+	url = https://github.com/bunsanorg/broker

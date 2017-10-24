@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bacs.Protocols.ProblemSingl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bacs.Protocols.Archive", "Bacs.Protocols.Archive\Bacs.Protocols.Archive.csproj", "{55E55827-9680-4DCD-BB0D-A94B0EC5A7D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bacs.Protocols.Broker", "Bacs.Protocols.Broker\Bacs.Protocols.Broker.csproj", "{B6D0C1CD-5069-4278-96C9-77F55004B157}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{55E55827-9680-4DCD-BB0D-A94B0EC5A7D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55E55827-9680-4DCD-BB0D-A94B0EC5A7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55E55827-9680-4DCD-BB0D-A94B0EC5A7D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D0C1CD-5069-4278-96C9-77F55004B157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D0C1CD-5069-4278-96C9-77F55004B157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D0C1CD-5069-4278-96C9-77F55004B157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D0C1CD-5069-4278-96C9-77F55004B157}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageId>Bacs.Protocols.StatementProvider</PackageId>
+    <PackageId>Bacs.Protocols.Broker</PackageId>
     <PackageVersion>0.1.2</PackageVersion>
     <Authors>Mikhail Ivchenko</Authors>
     <Description>
@@ -13,12 +13,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Remove="GeneratedProtos\google\**" />
-    <Compile Remove="GeneratedProtos\bacs\problem\**" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Google.Protobuf" Version="3.2.0" />
     <PackageReference Include="Grpc" Version="1.2.2" />
     <PackageReference Include="Grpc.Tools" Version="1.2.2" />
-    <PackageReference Include="Bacs.Protocols.Problem"/>
   </ItemGroup>
 </Project>
