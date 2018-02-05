@@ -8,7 +8,7 @@ temp_dir = install_dir + "/tmp"
 temp_archive = temp_dir + '/tmp.zip'
 temp_tools_dir = temp_dir + '/tools'
 tools_dir = install_dir + '/tools'
-url = 'https://www.nuget.org/api/v2/package/Grpc.Tools/'
+url = 'https://www.nuget.org/api/v2/package/Grpc.Tools/1.8.6'
 
 if not os.path.exists(temp_dir):
     os.makedirs(temp_dir)
